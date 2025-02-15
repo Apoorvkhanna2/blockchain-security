@@ -2,7 +2,7 @@ import hashlib
 import time
 
 # Simple User Authentication
-users = {"admin": "password123"}  # User database
+users = {"admin": "apoorv123"}  # User database
 
 def login():
     username = input("Enter username: ")
